@@ -30,10 +30,10 @@ Juga **Game Tester** dengan fokus pada **UI/UX**, **gameplay**, **performa (FPS/
 
 ## 🧩 Highlight Projects
 [![RnD-cable-jacketing](https://github-readme-stats.vercel.app/api/pin/?username=v0idengineer&repo=RnD-cable-jacketing&border_color=E5E7EB)](https://github.com/v0idengineer/RnD-cable-jacketing)
-[![Analisis Sentimen CS2](https://github-readme-stats.vercel.app/api/pin/?username=v0idengineer&repo=analisis-sentimen-cs2-svm&border_color=E5E7EB&show_owner=true)](https://github.com/v0idengineer/analisis-sentimen-cs2-svm)
+[![Analisis Sentimen CS2](https://github-readme-stats.vercel.app/api/pin/?username=v0idengineer&repo=analisis-sentimen-cs2-svm&border_color=E5E7EB)](https://github.com/v0idengineer/analisis-sentimen-cs2-svm)
 
 ## 🎮 Game Testing
-- **Cakupan**: UI/UX (navigasi, aksesibilitas), **gameplay** (mekanik & keseimbangan), QA fungsional, **performa** (FPS, frametime), **jaringan/ping**, kompatibilitas display (144Hz).
+- **Cakupan**: UI/UX (navigasi, aksesibilitas), **gameplay** (mekanik & keseimbangan), QA fungsional, **performa** (FPS, frametime), **jaringan/ping**.
 - **Metode**: test case terstruktur + exploratory testing; skenario kompetitif & casual; capture video/log untuk reproduksi bug.
 - **Lingkungan uji**: Windows 10/11, Android/Web Env.
 - **Output**: laporan bug terstruktur + rekomendasi UX/QoL.
