@@ -16,7 +16,7 @@
 
 ## 🚀 Tentang Saya
 Developer yang fokus di **Laravel + Tailwind** untuk digitalisasi proses (mis. jacketing kabel) dan **Data Science** ringan (NLP, klasifikasi SVM).  
-Aku juga **Game Tester** dengan fokus pada **UI/UX**, **gameplay**, **performa (FPS/frametime)**, **stabilitas jaringan/ping**, dan **quality of life**.
+Juga **Game Tester** dengan fokus pada **UI/UX**, **gameplay**, **performa (FPS/frametime)**, **stabilitas jaringan/ping**, dan **quality of life**.
 
 ## 🧰 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -30,24 +30,9 @@ Aku juga **Game Tester** dengan fokus pada **UI/UX**, **gameplay**, **performa (
 
 ## 🧩 Highlight Projects
 [![RnD-cable-jacketing](https://github-readme-stats.vercel.app/api/pin/?username=v0idengineer&repo=RnD-cable-jacketing&border_color=E5E7EB)](https://github.com/v0idengineer/RnD-cable-jacketing)
-[![MANAJEMEN-IGD](https://github-readme-stats.vercel.app/api/pin/?username=v0idengineer&repo=MANAJEMEN-IGD&border_color=E5E7EB)](https://github.com/v0idengineer/MANAJEMEN-IGD)
-[![Projek-dan-Implementasi-Perangkat-Lunak](https://github-readme-stats.vercel.app/api/pin/?username=v0idengineer&repo=Projek-dan-Implementasi-Perangkat-Lunak&border_color=E5E7EB)](https://github.com/v0idengineer/Projek-dan-Implementasi-Perangkat-Lunak)
 
 ## 🎮 Game Testing
 - **Cakupan**: UI/UX (navigasi, aksesibilitas), **gameplay** (mekanik & keseimbangan), QA fungsional, **performa** (FPS, frametime), **jaringan/ping**, kompatibilitas display (144Hz).
 - **Metode**: test case terstruktur + exploratory testing; skenario kompetitif & casual; capture video/log untuk reproduksi bug.
-- **Lingkungan uji**: Windows 10/11, 1080p 144Hz, setting low–medium (kompetitif).
+- **Lingkungan uji**: Windows 10/11, Android/Web Env.
 - **Output**: laporan bug terstruktur + rekomendasi UX/QoL.
-
-**Template Laporan Bug Singkat**
-```text
-Judul: [Ringkas masalah] 
-Build/Versi: 
-Platform/Spesifikasi: 
-Langkah Repro:
-1) ...
-2) ...
-Perilaku Aktual: 
-Perilaku Diharapkan: 
-Bukti: (SS/Video, log)
-Tingkat Keparahan: (Low/Medium/High/Blocker)
