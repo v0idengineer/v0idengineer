@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Tentang Saya
-Developer yang fokus di **Laravel + Tailwind** untuk digitalisasi proses (mis. jacketing kabel) dan **Data Science** ringan (NLP, klasifikasi SVM).  
+Developer yang fokus di **Laravel + Tailwind** untuk digitalisasi proses (mis. database excel) dan **Data Science** ringan (NLP, klasifikasi SVM).  
 Juga **Game Tester** dengan fokus pada **UI/UX**, **gameplay**, **performa (FPS/frametime)**, **stabilitas jaringan/ping**, dan **quality of life**.
 
 ## 🧰 Tech Stack
