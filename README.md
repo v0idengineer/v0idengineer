@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=620&lines=Full-Stack+Laravel;Data+Science+(NLP%2C+SVM);Game+Testing+(UI%2FUX%2C+Gameplay);Build+fast.+Ship+smart." alt="Typing SVG" />
 
-  <h1>Hi, I'm Faris Riyadi (v0idengineer) 👋</h1>
+  <h1>Hi, Saya Faris Riyadi (v0idengineer) 👋</h1>
   <p>Laravel • Tailwind • MySQL • Python (pandas, scikit-learn)</p>
 
   <!-- Badges -->
